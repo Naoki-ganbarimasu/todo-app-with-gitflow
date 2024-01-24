@@ -8,6 +8,7 @@ function App() {
       <h1 className="text-gray-800 font-bold text-2xl uppercase">
         To-Do List
       </h1>
+    
     </div>
     <form>
       {/* className="w-full max-w-sm mx-auto px-4 py-2"
